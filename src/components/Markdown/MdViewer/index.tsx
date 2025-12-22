@@ -1,5 +1,4 @@
 import React, { useRef } from 'react';
-import { ProCard } from '@ant-design/pro-components';
 import './index.less';
 import { MarkdownEditor, MarkdownEditorInstance } from '@ant-design/md-editor';
 

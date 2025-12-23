@@ -1,7 +1,7 @@
 {
   "openapi": "3.0.1",
   "info": {
-    "title": "Stephen的Springboot3启动模版",
+    "title": "Stephen的Springboot启动模版",
     "description": "",
     "version": "1.0.0"
   },
